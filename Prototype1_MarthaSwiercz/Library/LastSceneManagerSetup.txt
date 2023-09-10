@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Prototype1_MarthaSwiercz copy.unity
+  isLoaded: 0
+  isActive: 0
